@@ -96,7 +96,7 @@ docker-compose up --build
 
 # App is now running at:
 # Frontend: http://localhost
-# Backend API: http://localhost:5000
+# Backend API: http://localhost:3001
 # MongoDB: localhost:27017
 ```
 
@@ -115,7 +115,7 @@ cp .env.example .env
 # Edit .env with your MongoDB URI and JWT_SECRET
 
 npm run dev
-# Backend runs at http://localhost:5000
+# Backend runs at http://localhost:3001
 ```
 
 **Frontend:**
@@ -135,7 +135,7 @@ npm run dev
 
 | Variable | Description | Default |
 |---|---|---|
-| `PORT` | Server port | `5000` |
+| `PORT` | Server port | `3001` |
 | `NODE_ENV` | Environment | `development` |
 | `MONGO_URI` | MongoDB connection string | `mongodb://localhost:27017/leadflow` |
 | `JWT_SECRET` | Secret for signing JWTs | — (required) |

@@ -1,6 +1,6 @@
 # LeadFlow API Documentation
 
-Base URL: `http://localhost:5000/api`
+Base URL: `http://localhost:3001/api`
 
 All protected routes require a valid JWT, passed as either:
 - `Authorization: Bearer <token>` header
