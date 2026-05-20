@@ -2,6 +2,10 @@
 
 A full-stack Lead Management Dashboard built with the MERN stack and TypeScript. Manage, track, filter, and export sales leads through a clean, professional dashboard.
 
+> 🚀 **Live Demo:** [https://lead-flow-psi-ten.vercel.app](https://lead-flow-psi-ten.vercel.app)
+> 
+> *Test Account — Email: `demo@example.com` | Password: `Password123`*
+
 ---
 
 ## Tech Stack
